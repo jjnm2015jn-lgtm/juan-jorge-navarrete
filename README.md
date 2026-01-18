@@ -1,4 +1,4 @@
-# Portal de Consultoría – Juan Jorge Navarrete Monge
+# Portal  – Juan Jorge Navarrete Monge
 
 Sitio web profesional del **Economista Juan Jorge Navarrete Monge**, orientado a la **consultoría técnica especializada en gestión pública, desarrollo social y planificación estratégica**, con experiencia en el sector público, proyectos de inversión y fortalecimiento institucional.
 
